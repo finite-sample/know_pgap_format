@@ -4,6 +4,8 @@ This repository contains data, code, and manuscript source for the paper "_A Mea
 
 (Lucas Shen, Gaurav Sood, Daniel Weitzel, A Measurement Gap? Effect of Survey Instrument and Scoring on the Partisan Knowledge Gap, Public Opinion Quarterly, 2025;, nfaf044, https://doi.org/10.1093/poq/nfaf044)
 
+Archived replication data: [Harvard Dataverse](https://doi.org/10.7910/DVN/KNN0GL).
+
 
 <p align="center">
   <img width="100%" src="figs/partisan-gap-by-item-arm.png">
