@@ -110,9 +110,11 @@ Lucas Shen, Gaurav Sood, and Daniel Weitzel
 ## 🔗 Adjacent Repositories
 
 - [finite-sample/know_pgap_review](https://github.com/finite-sample/know_pgap_review) — Replication Materials For "A Gap in Our Understanding? Reconsidering the Evidence for Partisan Knowledge Gaps"
-- [soodoku/adult](https://github.com/soodoku/adult) — Consumption of Pornography Online Using Passively Observed Browsing Data
-- [soodoku/dp-nireland](https://github.com/soodoku/dp-nireland) — Replication Data And Scripts for How Can You Think That?: Deliberation and the Learning of Opposing Arguments
-- [soodoku/party_time](https://github.com/soodoku/party_time) — Replication Data and Scripts for Affect, Not Ideology: A Social Identity Perspective on Polarization
-- [soodoku/pcomp](https://github.com/soodoku/pcomp)
+- [finite-sample/know_gains](https://github.com/finite-sample/know_gains) — Measuring Learning in Informative Processes \(Luskin, Helfer, Sood\)
+- [finite-sample/know_hidden](https://github.com/finite-sample/know_hidden) — Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+- [finite-sample/know_pgap_cues](https://github.com/finite-sample/know_pgap_cues) — Partisan cues and evaluations of the same economic information \(Roush and Sood\)
+- [finite-sample/know_casablanca](https://github.com/finite-sample/know_casablanca) — The Waters of Casablanca: On Political Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
 
 <!-- adjacent:end -->
