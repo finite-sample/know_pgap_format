@@ -10,7 +10,7 @@ setwd(githubdir) # Daniel's path
 setwd("partisan-gaps")  # folder
 
 
-# Load libaries
+# Load libraries
 library(plyr)
 library(broom)
 library(lme4)
